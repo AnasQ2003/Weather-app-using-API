@@ -14,7 +14,7 @@
 
 ## 🌟 Overview
 
-The **Dynamic Weather App** is an advanced desktop GUI client developed as part of the **BiStartX** Python learning curriculum (Month 02). The application bridges the gap between desktop software and web APIs by integrating three separate remote services.
+The **Dynamic Weather App** is an advanced desktop GUI client developed as part of Python learning curriculum (Month 02). The application bridges the gap between desktop software and web APIs by integrating three separate remote services.
 
 Upon launching, users can type in a city name or simply click **Auto Detect Location**. The app will fetch current weather parameters (Temperature in Celsius and Fahrenheit, wind speed, humidity, and atmospheric pressure). Depending on the weather condition, the UI background dynamically updates to clear sky, cloudy, rainy, or hazy imagery. Simultaneously, the app geocodes the city into coordinates using **Geopy (Nominatim)**, generates a local interactive leaflet map page using **Folium**, and automatically opens it in the user's default web browser.
 
@@ -174,8 +174,7 @@ python weather.py
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Month 2, Week 2)
-
+## 🧠 Learning Objectives 
 > ✅ **Objective**: Understand how to interact with third-party APIs using Python's `requests` library, extract valuable keys from complex nested JSON payloads, and leverage geocoding and mapping scripts to overlay data on interactive visual components.
 
 **Activities Completed:**
