@@ -35,7 +35,6 @@ Upon launching, users can type in a city name or simply click **Auto Detect Loca
 <p align="center">
   <img src="screenshots/screenshot_6.png" width="280" alt="Rainy Weather" /> &nbsp;
   <img src="screenshots/screenshot_8.png" width="280" alt="Empty Search Warning" /> &nbsp;
-  <img src="screenshots/screenshot_12.png" width="280" alt="Default Startup Screen" />
 </p>
 
 ### 3. Location Auto-Detection Progress
