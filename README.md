@@ -31,7 +31,6 @@ Upon launching, users can type in a city name or simply click **Auto Detect Loca
 <p align="center">
   <img src="screenshots/screenshot_3.png" width="280" alt="Clear Sky Weather" /> &nbsp;
   <img src="screenshots/screenshot_4.png" width="280" alt="Haze Weather" /> &nbsp;
-  <img src="screenshots/screenshot_5.png" width="280" alt="Cloudy Weather" />
 </p>
 <p align="center">
   <img src="screenshots/screenshot_6.png" width="280" alt="Rainy Weather" /> &nbsp;
@@ -197,19 +196,43 @@ python weather.py
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+```
+MIT License
+
+Copyright (c) Weather App---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
-## 👨 Honor & Authorship
+## 👨‍💻 Author
 
-**Anas Ahmed Qureshi** — [@AnasQ2003](https://github.com/AnasQ2003)
-*BiStartX Python Internship — Month 02, Week 02*
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ using <strong>Python, Tkinter & OpenWeather API</strong></p>
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
 
-  **⭐ If you found this project helpful, please star the repository!**
+Made with 💧 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+*Stay hydrated. Stay healthy.*
+
 </div>
