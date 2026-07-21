@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🌤️ Dynamic Weather App using API
 
 > A sophisticated, dark-styled desktop weather application built with Python and Tkinter, featuring real-time data fetching, IP-based location auto-detection, a weather-responsive dynamic background engine, and interactive browser-based map rendering.
@@ -10,11 +12,13 @@
 [![Folium Maps](https://img.shields.io/badge/Maps-Folium_HTML-77B829.svg?style=flat-square)](https://python-visualization.github.io/folium/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
+</div>
+
 ---
 
 ## 🌟 Overview
 
-The **Dynamic Weather App** is an advanced desktop GUI client developed as part of Python learning curriculum (Month 02). The application bridges the gap between desktop software and web APIs by integrating three separate remote services.
+The **Dynamic Weather App** is an advanced desktop GUI client developed as part of Python learning. The application bridges the gap between desktop software and web APIs by integrating three separate remote services.
 
 Upon launching, users can type in a city name or simply click **Auto Detect Location**. The app will fetch current weather parameters (Temperature in Celsius and Fahrenheit, wind speed, humidity, and atmospheric pressure). Depending on the weather condition, the UI background dynamically updates to clear sky, cloudy, rainy, or hazy imagery. Simultaneously, the app geocodes the city into coordinates using **Geopy (Nominatim)**, generates a local interactive leaflet map page using **Folium**, and automatically opens it in the user's default web browser.
 
@@ -197,7 +201,7 @@ python weather.py
 ```
 MIT License
 
-Copyright (c) Weather App---2026 AnasQ2003
+Copyright (c) Weather App --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -230,7 +234,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 Made with 💧 and a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
